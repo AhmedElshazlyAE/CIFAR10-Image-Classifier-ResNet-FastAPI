@@ -9,7 +9,7 @@
 A CIFAR-10 image classification project where I started with a basic CNN, improved it step by step, built a ResNet-style model from scratch, then finished by fine-tuning a pretrained ResNet-18 and deploying it with FastAPI and Docker.
 
 I used this project mainly to understand the full workflow instead of only training one final model:
-data loading, transforms, CNN design, training loops, experiment tracking, model comparison, transfer learning, API inference, a small web UI, and Docker packaging
+data loading, transforms, CNN design, training loops, experiment tracking, model comparison, transfer learning, API inference, a small web UI, and Docker packaging.
 
 ---
 
